@@ -1,1 +1,1 @@
-# eac_cr3_shuffle
+[Read blog post here.](https://tulach.cc/eac-and-its-cr3-shuffling/)
